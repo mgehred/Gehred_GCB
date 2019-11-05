@@ -15,5 +15,5 @@ def read_fasta(filename):
         seq = seq + line
     f.close()
     return print(seq)
-print(read_fasta(sys.argv[1]))
+read_fasta(sys.argv[1])
 
