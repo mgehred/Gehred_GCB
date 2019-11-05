@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 def read_fasta(x):
     """
     Read in a file in FASTA format    
